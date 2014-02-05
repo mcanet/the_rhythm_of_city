@@ -1,0 +1,6 @@
+#!/bin/sh
+# Open App for visualization in OPENFRAMEWORKS
+/Users/mcanet/Documents/OF/of_v0073_osx_release/apps/myApps/emptyExample/bin/Rhythm_of_sao_pauloDebug.app/Contents/MacOS/Rhythm_of_sao_pauloDebug &
+# Open App for data gathering in Python
+cd /Users/mcanet/Documents/OF/of_v0073_osx_release/apps/myApps/emptyExample/bin/data/python/
+python getSaoPauloData.py
